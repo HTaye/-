@@ -1,0 +1,12 @@
+base\port.o: ..\FreeRtos\portable\RVDS\ARM_CM3\port.c
+base\port.o: ../FreeRtos/include/FreeRTOS.h
+base\port.o: D:\Keil5\Core\ARM\ARMCC\Bin\..\include\stddef.h
+base\port.o: D:\Keil5\Core\ARM\ARMCC\Bin\..\include\stdint.h
+base\port.o: ../Core/Inc/FreeRTOSConfig.h
+base\port.o: ../FreeRtos/include/projdefs.h
+base\port.o: ../FreeRtos/include/portable.h
+base\port.o: ../FreeRtos/include/deprecated_definitions.h
+base\port.o: ../FreeRtos/portable/RVDS/ARM_CM3/portmacro.h
+base\port.o: ../FreeRtos/include/mpu_wrappers.h
+base\port.o: ../FreeRtos/include/task.h
+base\port.o: ../FreeRtos/include/list.h

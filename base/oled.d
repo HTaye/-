@@ -1,0 +1,10 @@
+base\oled.o: ..\Core\Src\oled.c
+base\oled.o: D:\Keil5\Core\ARM\ARMCC\Bin\..\include\stdlib.h
+base\oled.o: D:\Keil5\Core\ARM\ARMCC\Bin\..\include\string.h
+base\oled.o: D:\Keil5\Core\ARM\ARMCC\Bin\..\include\stdio.h
+base\oled.o: D:\Keil5\Core\ARM\ARMCC\Bin\..\include\stdarg.h
+base\oled.o: ../Core/Inc/oled.h
+base\oled.o: D:\Keil5\Core\ARM\ARMCC\Bin\..\include\stdint.h
+base\oled.o: ../Core/Inc/oled_font.h
+base\oled.o: ../Core/Inc/oled_default_font.h
+base\oled.o: D:\Keil5\Core\ARM\ARMCC\Bin\..\include\math.h
